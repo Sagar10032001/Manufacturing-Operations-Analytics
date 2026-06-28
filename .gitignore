@@ -1,0 +1,31 @@
+# ==========================
+# Windows
+# ==========================
+Thumbs.db
+Desktop.ini
+
+# ==========================
+# Temporary files
+# ==========================
+*.tmp
+*.temp
+*.log
+
+# ==========================
+# Microsoft Office temporary files
+# ==========================
+~$*.xlsx
+~$*.xls
+~$*.docx
+~$*.pptx
+
+# ==========================
+# Power BI autosave/backup files
+# ==========================
+*.pbix.tmp
+
+# ==========================
+# VS Code workspace settings
+# (Keep ignored unless you intentionally want to share them)
+# ==========================
+.vscode/
